@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-Label maintainer "dsp Developer"
+LABEL maintainer "dsp Developer"
 
 ENV PYTHONUNBUFFERED 1
 
