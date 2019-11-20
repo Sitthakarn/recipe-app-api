@@ -14,7 +14,5 @@ class CalcTest(TestCase):
     def test_divide_number(self):
         """Test devide the numbers"""
         self.assertEqual(devide(8, 2), 4)
-
-    def test_devide_number_by_zero(self):
         self.assertEqual(devide(8, 0), "division by zero")
 
