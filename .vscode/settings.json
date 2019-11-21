@@ -1,8 +1,8 @@
 {
     "editor.fontFamily": "Menlo for Powerline, Monaco, 'Courier New', monospace",
     "editor.fontSize": 13,
-    "python.pythonPath": "/Users/Patty/course/recipe-app-api/env/bin/python3.7",
-    "python.linting.pylintEnabled": True,
-    "python.linting.enabled": True,
+    "python.pythonPath": "~/course/recipe-app-api/env/bin/python3.7",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
     "python.autoComplete.extraPaths": ["./app"]
 }
