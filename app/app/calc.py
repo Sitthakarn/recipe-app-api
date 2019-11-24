@@ -8,5 +8,4 @@ def devide(x, y):
     if y == 0:
         return "division by zero"
     else:
-        return x/y
-
+        return x / y
