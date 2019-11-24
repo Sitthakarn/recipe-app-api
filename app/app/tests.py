@@ -6,6 +6,7 @@ class CalcTest(TestCase):
     def test_add_number(self):
         """Test that add 2 numbers"""
         self.assertEqual(add(3,8), 11)
+        self.assertAlmostEqual(add(3, -4), -1)
 
     def test_substact_number(self):
         """Test that substact 2 numbers and return the result"""
