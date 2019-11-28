@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "Menlo for Powerline, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "MesloLGS NF, Monaco, 'Courier New', monospace",
     "editor.fontSize": 13,
     "python.pythonPath": "~/course/recipe-app-api/env/bin/python3.7",
     "python.linting.pylintEnabled": true,
